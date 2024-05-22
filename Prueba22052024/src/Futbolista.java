@@ -30,6 +30,7 @@ public class Futbolista extends Personass {
     public void setDemarcacion(String demarcacion) {
         this.demarcacion = demarcacion;
     }
+    
    
     @Override
     public void Concentracion(){
